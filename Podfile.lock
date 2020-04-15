@@ -1,0 +1,24 @@
+PODS:
+  - BTNavigationDropdownMenu (0.5)
+  - Cosmos (20.0.1)
+  - RevealingSplashView (0.6.0)
+
+DEPENDENCIES:
+  - BTNavigationDropdownMenu
+  - Cosmos (~> 20.0)
+  - RevealingSplashView
+
+SPEC REPOS:
+  trunk:
+    - BTNavigationDropdownMenu
+    - Cosmos
+    - RevealingSplashView
+
+SPEC CHECKSUMS:
+  BTNavigationDropdownMenu: ba3a26fdb6a56c4721c31df8a0875106c259663a
+  Cosmos: b47fddf2102bb48580cd3025d9ce0a5c658a65da
+  RevealingSplashView: 40c5a770894459736acdc95655eeba0dd30ce91c
+
+PODFILE CHECKSUM: 1149f670830796d06385d83cf570cc940e733387
+
+COCOAPODS: 1.8.4
